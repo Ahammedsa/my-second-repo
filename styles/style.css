@@ -5,6 +5,13 @@
      height: 300px;
      background-position: center;
    }
+   table,th, td{
+    border: 1px solid;
+   }
+   table {
+    width: 100%;
+    border-collapse: collapse;
+  }
 
 /* .page{
     color: aqua;
